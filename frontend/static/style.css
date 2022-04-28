@@ -1,0 +1,30 @@
+html{
+background-image: url("Castle.jpg");
+background-size: cover;
+}
+div.Form{
+    background-image: linear-gradient(rgba(43,80,73,255));
+    width: 12cm;
+    padding: 12px 20px;
+    border-radius: 10;
+    width: 300px;
+    margin: auto;
+    padding-top: 200px;
+}
+label{
+    width: 140px;
+    display: inline-block;
+    margin: 0.2cm;
+    font-size: 16px;
+    font-weight: bold;
+    color: aliceblue;
+
+}
+input{
+    padding: 4px;
+    margin: 5px;
+    font-size: size 16px;
+    border-radius: 10px;
+    border: 1px solid white;
+    width: 7cm; 
+}
